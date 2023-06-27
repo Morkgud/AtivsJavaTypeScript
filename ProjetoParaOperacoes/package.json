@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "async-prompt": "^1.0.1",
+    "nodemon": "^2.0.22",
+    "prompt-sync": "^4.2.0",
+    "prompt-sync-history": "^1.0.1",
+    "readline-sync": "^1.4.10",
+    "typescript": "^5.0.2"
+  },
+  "name": "atv1",
+  "version": "1.0.0",
+  "description": "atividade para js/node/ts",
+  "main": "menu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "josé arthur",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.5",
+    "@types/readline-sync": "^1.4.4"
+  }
+}
